@@ -1,1 +1,1 @@
-# Node Vertical and Horizontal design
+# Administrative Dashboard built with Node.js 
