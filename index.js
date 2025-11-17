@@ -27,9 +27,3 @@ app.use(session({
         expires: 1200000
     }
 }));
-
-app.use(session({ resave: false, saveUninitialized: true, secret: 'nodedemo'}));
-app.use(flash());
-app.use(i18n({
-   translationsPath:  
-}))
